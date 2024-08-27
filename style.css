@@ -1,0 +1,313 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=DM+Serif+Display:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Public+Sans:ital,wght@0,100..900;1,100..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Readex+Pro:wght@160..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=DM+Serif+Display:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Public+Sans:ital,wght@0,100..900;1,100..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Readex+Pro:wght@160..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container{
+display: flex;
+align-items: center;
+padding: 30px 70px;
+}
+ul{
+display: flex;
+gap: 40px;
+}
+a{
+text-decoration: none;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+color: black;
+line-height: 16.8px;
+}
+li{
+list-style-type: none;
+}
+.a1{
+margin-left: 300px;
+}
+.i1{
+margin-left: 300px;
+}
+header{
+background-color: #DCE5E2;
+margin: 0px 73px;
+border-radius: 20px;
+}
+.x1{
+width: 588px;
+height: 140px;
+font-family: Readex Pro;
+font-size: 58px;
+font-weight: 400;
+line-height: 69.6px;
+margin-bottom: 30px;
+}
+.p1{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    width: 565px;
+    height: 39px;    
+}
+.b1{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: center;   
+    padding: 15px 50px; 
+    border-radius: 30px;
+    background-color: transparent;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.container2{
+display: flex;
+align-items: center;
+}
+.title{
+    padding: 40px 56px;
+}
+.x2{
+    font-family: Readex Pro;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 52.5px;
+    text-align: center; 
+    margin-top: 30px;
+    margin-bottom: 30px;   
+}
+.p2{
+    font-family: Readex Pro;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.8px;
+    width: 628px;
+    height: 34px;   
+    margin-left: 460px;
+}
+.card{
+    box-shadow: 0px 4px 35px 0px #00000040;
+    width: 639px;
+    height: 472px;
+}
+.x3{
+    font-family: Readex Pro;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38.4px;  
+    width: 192px;
+    height: 77px;
+}
+.row2{
+padding: 30px 70px;
+flex-wrap: wrap;
+}
+.card2{
+    width: 639px;
+    height: 270px;
+    box-shadow: 0px 4px 35px 0px #00000040;
+    margin-top: 30px;
+    display: flex;
+}
+.x4{
+    font-family: Readex Pro;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38.4px;
+    width: 128px;
+    height: 77px;    
+    margin-top:90px;
+    margin-left: 30px;
+}
+.card3{
+    width: 312px;
+    height: 770px;
+    box-shadow: 0px 4px 35px 0px #00000040;
+    padding: 130px 15px;
+    margin-top: 30px;
+}
+.x5{
+    font-family: Readex Pro;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38.4px;
+    text-align: center;
+    width: 250px;
+    height: 77px;    
+}
+.con{
+display: flex;
+gap: 20px;
+}
+.x6{
+    font-family: Readex Pro;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38.4px;
+    text-align: center;
+    width: 233px;
+    height: 77px;    
+}
+.card3 .i2{
+width: 100%;
+}
+.x7{
+    font-family: Readex Pro;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 52.5px;
+    text-align: center;    
+}
+.x8{
+    font-family: Readex Pro;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: center;    
+}
+.x9{
+    font-family: Readex Pro;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 27.5px;
+}
+.x10{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.8px;  
+    width: 261px;
+    height: 34px;  
+}
+.x11{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;    
+}
+.card4{
+    width: 302.5px;
+    height: 396px;   
+}
+.box{
+padding: 30px 100px;
+gap: 30px;
+display: flex;
+align-items: center;
+}
+.i3{
+    width: 247px;
+    height: 214px;    
+}
+.card5{
+    width: 302.5px;
+    height: 396px;  
+    margin-top: 107px;
+}
+.x12{
+    font-family: Readex Pro;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: center;  
+    padding-top: 50px;  
+}
+.x13{
+    font-family: Readex Pro;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 35px;
+    text-align: center;    
+}
+.b2{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: center;
+    padding: 15px 60px;    
+    border-radius: 30px;
+    background-color: transparent;
+    justify-content: center;
+    margin-left: 105px;
+    padding-top: 20px;  
+}
+.card6{
+    width: 413px;
+    height: 453px;
+    background-color: #F8F9FA;    
+}
+.box2{
+padding: 30px 73px;
+gap: 30px;
+display: flex;
+}
+.i4{
+margin-left: 60px;
+}
+.container3{
+background-color: #DCE5E2;
+margin: 30px 250px;
+border-radius: 20px;
+}
+.x14{
+    font-family: Readex Pro;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 52.5px;
+    text-align: center;    
+}
+.x15{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    text-align: center;    
+}
+.ro{
+padding: 50px 160px;
+}
+input{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.8px;
+    width: 285px;
+    height: 50px;
+    outline: none;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    margin-left: 150px;
+}
+.i5{
+margin-left: 200px;
+}
+.b3{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: center;
+    border-top-right-radius: 30px;    
+    border-bottom-right-radius: 30px;
+    width: 115px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+.ro2{
+display: flex
+}
+footer{
+background-color: #F8F9FA;
+display: flex;
+align-items: center;
+padding: 30px 70px;
+}
